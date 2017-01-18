@@ -3,7 +3,7 @@
 /*
  *  Exemplo de uso:
  *  $example = new \rqdev\GetProxy\Proxy();
- *  $example->SetKey(' <Sua Chave> ').
+ *  $example->SetKey(' <Sua Chave> ');
  *  $example->SetParameters('area=US&page=100');
  *  $example->Get();
  *  $ProxyList = $example->GetProxys();
