@@ -20,9 +20,9 @@ class Proxy
      *  http://www.getproxy.jp/en/api
      *    Parameter        |   Value                  |	Description
      *    ApiKey(Not Null) |                          |
-     *    area(Not Null)   |	Code                  |    Code Table
-     *    page             |    1~100                 |
-     *    type             |    all,https             |
+     *    area(Not Null)      Code                    |    Code Table
+     *    page             |  1~100                   |
+     *    type             |  all,https               |
      *    sort             |  requesttime,updatetime  | requesttime:order by 
      *     *               |                          | Response Time,
      *     *               |                          | updatetime:Order by 
